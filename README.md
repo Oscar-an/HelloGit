@@ -1,2 +1,2 @@
 # HelloGit
-this is just try to test GitHub functionaly.
+this just try to test GitHub functionaly.
